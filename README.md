@@ -3,8 +3,8 @@ A collection of Briskinfosec penetration testing resources
 
 [This project is supported by BINT Lab Research Team](https://www.briskinfosec.com)
 
-- [Briksinfosec Security Testing Tools](#Briskinfosec Security Testing Tools)
-  - [Network Pentesting Tools](#Network Pentesting Tools)
+- [Briksinfosec Security Testing Tools](#briskinfosec-security-testing-tools)
+  - [Network Pentesting Tools](#network-pentesting-tools)
 - [Online Resources](#online-resources)
   - [Penetration Testing Resources](#penetration-testing-resources)
   - [Exploit development](#exploit-development)
@@ -50,7 +50,7 @@ A collection of Briskinfosec penetration testing resources
 
 ### Briksinfosec Security Testing Tools
 #### Network Pentesting Tools
-* [ANSE SCANNER](https://github.com/briskinfosec/ANSE-SCANNER.git) - Advanced NMAP Scripting Engine Scanner
+* [ANSE SCANNER](https://github.com/briskinfosec/ANSE-SCANNER) - Advanced NMAP Scripting Engine Scanner
 
 ### Online Resources
 #### Penetration Testing Resources
